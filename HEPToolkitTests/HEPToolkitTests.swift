@@ -1,0 +1,17 @@
+//
+//  HEPToolkitTests.swift
+//  HEPToolkitTests
+//
+//  Created by 邱渔骋 on 27/2/2026.
+//
+
+import Testing
+@testable import HEPToolkit
+
+struct HEPToolkitTests {
+
+    @Test func example() async throws {
+        // Write your test here and use APIs like `#expect(...)` to check expected conditions.
+    }
+
+}

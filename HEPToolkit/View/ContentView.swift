@@ -8,7 +8,7 @@
 import SwiftUI
 
 struct ContentView: View {
-    @State private var selectedTool: Tool? = .prlCounter
+    @State private var selectedTool: Tool? = .about
 
     var body: some View {
         NavigationSplitView {

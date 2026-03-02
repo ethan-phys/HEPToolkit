@@ -6,7 +6,7 @@
 	<dict>
 		<key>Resources/Assets.car</key>
 		<data>
-		hP368wiIBUs9iq3IGeE4Mb8AHOU=
+		4ZwsHgJKbGdM7dWgH5FwwY/SYCM=
 		</data>
 		<key>Resources/Icon.icns</key>
 		<data>
@@ -19,25 +19,25 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			q2J2Icn5LelfeStgIKB1mIOtwzI=
+			CnE4bqxlA6eYpEENe9pRt82sXe8=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"ab627621c9f92de95f792b6020a0759883adc332"</string>
+			<string>cdhash H"0a71386eac6503a798a4410d7bda51b7cdac5def"</string>
 		</dict>
 		<key>MacOS/__preview.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			GiSui+GX+0dyIknEU8Q8QbZuYuM=
+			zi0rn7ylH7pgioftkuqNgrVNa8Q=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"1a24ae8be197fb47722249c453c43c41b66e62e3"</string>
+			<string>cdhash H"ce2d2b9fbca51fba608a87ed92ea8d82b54d6bc4"</string>
 		</dict>
 		<key>Resources/Assets.car</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			HANJaQWvL13UpWd5p090M6TsIfsJGL0tfDIaSWhn3+I=
+			8DAimARE2Wlbq4B3wy5cdg5BybV8YLThdOups/E/E5w=
 			</data>
 		</dict>
 		<key>Resources/Icon.icns</key>

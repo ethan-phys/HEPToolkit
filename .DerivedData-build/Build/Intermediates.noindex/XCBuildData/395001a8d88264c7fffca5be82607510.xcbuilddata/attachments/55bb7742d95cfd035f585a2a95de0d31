@@ -1,0 +1,109 @@
+{
+  "" : {
+    "diagnostics" : "/Users/ethan/Documents/projects/HEPToolkit/.DerivedData-build/Build/Intermediates.noindex/HEPToolkit.build/Debug/HEPToolkit.build/Objects-normal/arm64/HEPToolkit-primary.dia",
+    "emit-module-dependencies" : "/Users/ethan/Documents/projects/HEPToolkit/.DerivedData-build/Build/Intermediates.noindex/HEPToolkit.build/Debug/HEPToolkit.build/Objects-normal/arm64/HEPToolkit-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/ethan/Documents/projects/HEPToolkit/.DerivedData-build/Build/Intermediates.noindex/HEPToolkit.build/Debug/HEPToolkit.build/Objects-normal/arm64/HEPToolkit-primary-emit-module.dia",
+    "pch" : "/Users/ethan/Documents/projects/HEPToolkit/.DerivedData-build/Build/Intermediates.noindex/HEPToolkit.build/Debug/HEPToolkit.build/Objects-normal/arm64/HEPToolkit-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/ethan/Documents/projects/HEPToolkit/.DerivedData-build/Build/Intermediates.noindex/HEPToolkit.build/Debug/HEPToolkit.build/Objects-normal/arm64/HEPToolkit-primary.swiftdeps"
+  },
+  "/Users/ethan/Documents/projects/HEPToolkit/.DerivedData-build/Build/Intermediates.noindex/HEPToolkit.build/Debug/HEPToolkit.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/ethan/Documents/projects/HEPToolkit/.DerivedData-build/Build/Intermediates.noindex/HEPToolkit.build/Debug/HEPToolkit.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/ethan/Documents/projects/HEPToolkit/.DerivedData-build/Build/Intermediates.noindex/HEPToolkit.build/Debug/HEPToolkit.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/ethan/Documents/projects/HEPToolkit/.DerivedData-build/Build/Intermediates.noindex/HEPToolkit.build/Debug/HEPToolkit.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/HEPToolkit.build/Debug/HEPToolkit.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/ethan/Documents/projects/HEPToolkit/.DerivedData-build/Build/Intermediates.noindex/HEPToolkit.build/Debug/HEPToolkit.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/ethan/Documents/projects/HEPToolkit/.DerivedData-build/Build/Intermediates.noindex/HEPToolkit.build/Debug/HEPToolkit.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/ethan/Documents/projects/HEPToolkit/.DerivedData-build/Build/Intermediates.noindex/HEPToolkit.build/Debug/HEPToolkit.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/ethan/Documents/projects/HEPToolkit/.DerivedData-build/Build/Intermediates.noindex/HEPToolkit.build/Debug/HEPToolkit.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/ethan/Documents/projects/HEPToolkit/HEPToolkit/Models/ToolkitStore.swift" : {
+    "const-values" : "/Users/ethan/Documents/projects/HEPToolkit/.DerivedData-build/Build/Intermediates.noindex/HEPToolkit.build/Debug/HEPToolkit.build/Objects-normal/arm64/ToolkitStore.swiftconstvalues",
+    "dependencies" : "/Users/ethan/Documents/projects/HEPToolkit/.DerivedData-build/Build/Intermediates.noindex/HEPToolkit.build/Debug/HEPToolkit.build/Objects-normal/arm64/ToolkitStore.d",
+    "diagnostics" : "/Users/ethan/Documents/projects/HEPToolkit/.DerivedData-build/Build/Intermediates.noindex/HEPToolkit.build/Debug/HEPToolkit.build/Objects-normal/arm64/ToolkitStore.dia",
+    "index-unit-output-path" : "/HEPToolkit.build/Debug/HEPToolkit.build/Objects-normal/arm64/ToolkitStore.o",
+    "llvm-bc" : "/Users/ethan/Documents/projects/HEPToolkit/.DerivedData-build/Build/Intermediates.noindex/HEPToolkit.build/Debug/HEPToolkit.build/Objects-normal/arm64/ToolkitStore.bc",
+    "object" : "/Users/ethan/Documents/projects/HEPToolkit/.DerivedData-build/Build/Intermediates.noindex/HEPToolkit.build/Debug/HEPToolkit.build/Objects-normal/arm64/ToolkitStore.o",
+    "swift-dependencies" : "/Users/ethan/Documents/projects/HEPToolkit/.DerivedData-build/Build/Intermediates.noindex/HEPToolkit.build/Debug/HEPToolkit.build/Objects-normal/arm64/ToolkitStore.swiftdeps",
+    "swiftmodule" : "/Users/ethan/Documents/projects/HEPToolkit/.DerivedData-build/Build/Intermediates.noindex/HEPToolkit.build/Debug/HEPToolkit.build/Objects-normal/arm64/ToolkitStore~partial.swiftmodule"
+  },
+  "/Users/ethan/Documents/projects/HEPToolkit/HEPToolkit/Models/Tools.swift" : {
+    "const-values" : "/Users/ethan/Documents/projects/HEPToolkit/.DerivedData-build/Build/Intermediates.noindex/HEPToolkit.build/Debug/HEPToolkit.build/Objects-normal/arm64/Tools.swiftconstvalues",
+    "dependencies" : "/Users/ethan/Documents/projects/HEPToolkit/.DerivedData-build/Build/Intermediates.noindex/HEPToolkit.build/Debug/HEPToolkit.build/Objects-normal/arm64/Tools.d",
+    "diagnostics" : "/Users/ethan/Documents/projects/HEPToolkit/.DerivedData-build/Build/Intermediates.noindex/HEPToolkit.build/Debug/HEPToolkit.build/Objects-normal/arm64/Tools.dia",
+    "index-unit-output-path" : "/HEPToolkit.build/Debug/HEPToolkit.build/Objects-normal/arm64/Tools.o",
+    "llvm-bc" : "/Users/ethan/Documents/projects/HEPToolkit/.DerivedData-build/Build/Intermediates.noindex/HEPToolkit.build/Debug/HEPToolkit.build/Objects-normal/arm64/Tools.bc",
+    "object" : "/Users/ethan/Documents/projects/HEPToolkit/.DerivedData-build/Build/Intermediates.noindex/HEPToolkit.build/Debug/HEPToolkit.build/Objects-normal/arm64/Tools.o",
+    "swift-dependencies" : "/Users/ethan/Documents/projects/HEPToolkit/.DerivedData-build/Build/Intermediates.noindex/HEPToolkit.build/Debug/HEPToolkit.build/Objects-normal/arm64/Tools.swiftdeps",
+    "swiftmodule" : "/Users/ethan/Documents/projects/HEPToolkit/.DerivedData-build/Build/Intermediates.noindex/HEPToolkit.build/Debug/HEPToolkit.build/Objects-normal/arm64/Tools~partial.swiftmodule"
+  },
+  "/Users/ethan/Documents/projects/HEPToolkit/HEPToolkit/View/AboutView.swift" : {
+    "const-values" : "/Users/ethan/Documents/projects/HEPToolkit/.DerivedData-build/Build/Intermediates.noindex/HEPToolkit.build/Debug/HEPToolkit.build/Objects-normal/arm64/AboutView.swiftconstvalues",
+    "dependencies" : "/Users/ethan/Documents/projects/HEPToolkit/.DerivedData-build/Build/Intermediates.noindex/HEPToolkit.build/Debug/HEPToolkit.build/Objects-normal/arm64/AboutView.d",
+    "diagnostics" : "/Users/ethan/Documents/projects/HEPToolkit/.DerivedData-build/Build/Intermediates.noindex/HEPToolkit.build/Debug/HEPToolkit.build/Objects-normal/arm64/AboutView.dia",
+    "index-unit-output-path" : "/HEPToolkit.build/Debug/HEPToolkit.build/Objects-normal/arm64/AboutView.o",
+    "llvm-bc" : "/Users/ethan/Documents/projects/HEPToolkit/.DerivedData-build/Build/Intermediates.noindex/HEPToolkit.build/Debug/HEPToolkit.build/Objects-normal/arm64/AboutView.bc",
+    "object" : "/Users/ethan/Documents/projects/HEPToolkit/.DerivedData-build/Build/Intermediates.noindex/HEPToolkit.build/Debug/HEPToolkit.build/Objects-normal/arm64/AboutView.o",
+    "swift-dependencies" : "/Users/ethan/Documents/projects/HEPToolkit/.DerivedData-build/Build/Intermediates.noindex/HEPToolkit.build/Debug/HEPToolkit.build/Objects-normal/arm64/AboutView.swiftdeps",
+    "swiftmodule" : "/Users/ethan/Documents/projects/HEPToolkit/.DerivedData-build/Build/Intermediates.noindex/HEPToolkit.build/Debug/HEPToolkit.build/Objects-normal/arm64/AboutView~partial.swiftmodule"
+  },
+  "/Users/ethan/Documents/projects/HEPToolkit/HEPToolkit/View/ComingSoonView.swift" : {
+    "const-values" : "/Users/ethan/Documents/projects/HEPToolkit/.DerivedData-build/Build/Intermediates.noindex/HEPToolkit.build/Debug/HEPToolkit.build/Objects-normal/arm64/ComingSoonView.swiftconstvalues",
+    "dependencies" : "/Users/ethan/Documents/projects/HEPToolkit/.DerivedData-build/Build/Intermediates.noindex/HEPToolkit.build/Debug/HEPToolkit.build/Objects-normal/arm64/ComingSoonView.d",
+    "diagnostics" : "/Users/ethan/Documents/projects/HEPToolkit/.DerivedData-build/Build/Intermediates.noindex/HEPToolkit.build/Debug/HEPToolkit.build/Objects-normal/arm64/ComingSoonView.dia",
+    "index-unit-output-path" : "/HEPToolkit.build/Debug/HEPToolkit.build/Objects-normal/arm64/ComingSoonView.o",
+    "llvm-bc" : "/Users/ethan/Documents/projects/HEPToolkit/.DerivedData-build/Build/Intermediates.noindex/HEPToolkit.build/Debug/HEPToolkit.build/Objects-normal/arm64/ComingSoonView.bc",
+    "object" : "/Users/ethan/Documents/projects/HEPToolkit/.DerivedData-build/Build/Intermediates.noindex/HEPToolkit.build/Debug/HEPToolkit.build/Objects-normal/arm64/ComingSoonView.o",
+    "swift-dependencies" : "/Users/ethan/Documents/projects/HEPToolkit/.DerivedData-build/Build/Intermediates.noindex/HEPToolkit.build/Debug/HEPToolkit.build/Objects-normal/arm64/ComingSoonView.swiftdeps",
+    "swiftmodule" : "/Users/ethan/Documents/projects/HEPToolkit/.DerivedData-build/Build/Intermediates.noindex/HEPToolkit.build/Debug/HEPToolkit.build/Objects-normal/arm64/ComingSoonView~partial.swiftmodule"
+  },
+  "/Users/ethan/Documents/projects/HEPToolkit/HEPToolkit/View/ContentView.swift" : {
+    "const-values" : "/Users/ethan/Documents/projects/HEPToolkit/.DerivedData-build/Build/Intermediates.noindex/HEPToolkit.build/Debug/HEPToolkit.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/ethan/Documents/projects/HEPToolkit/.DerivedData-build/Build/Intermediates.noindex/HEPToolkit.build/Debug/HEPToolkit.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/ethan/Documents/projects/HEPToolkit/.DerivedData-build/Build/Intermediates.noindex/HEPToolkit.build/Debug/HEPToolkit.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/HEPToolkit.build/Debug/HEPToolkit.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/ethan/Documents/projects/HEPToolkit/.DerivedData-build/Build/Intermediates.noindex/HEPToolkit.build/Debug/HEPToolkit.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/ethan/Documents/projects/HEPToolkit/.DerivedData-build/Build/Intermediates.noindex/HEPToolkit.build/Debug/HEPToolkit.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/ethan/Documents/projects/HEPToolkit/.DerivedData-build/Build/Intermediates.noindex/HEPToolkit.build/Debug/HEPToolkit.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/ethan/Documents/projects/HEPToolkit/.DerivedData-build/Build/Intermediates.noindex/HEPToolkit.build/Debug/HEPToolkit.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/ethan/Documents/projects/HEPToolkit/HEPToolkit/View/PRLWordCounterView.swift" : {
+    "const-values" : "/Users/ethan/Documents/projects/HEPToolkit/.DerivedData-build/Build/Intermediates.noindex/HEPToolkit.build/Debug/HEPToolkit.build/Objects-normal/arm64/PRLWordCounterView.swiftconstvalues",
+    "dependencies" : "/Users/ethan/Documents/projects/HEPToolkit/.DerivedData-build/Build/Intermediates.noindex/HEPToolkit.build/Debug/HEPToolkit.build/Objects-normal/arm64/PRLWordCounterView.d",
+    "diagnostics" : "/Users/ethan/Documents/projects/HEPToolkit/.DerivedData-build/Build/Intermediates.noindex/HEPToolkit.build/Debug/HEPToolkit.build/Objects-normal/arm64/PRLWordCounterView.dia",
+    "index-unit-output-path" : "/HEPToolkit.build/Debug/HEPToolkit.build/Objects-normal/arm64/PRLWordCounterView.o",
+    "llvm-bc" : "/Users/ethan/Documents/projects/HEPToolkit/.DerivedData-build/Build/Intermediates.noindex/HEPToolkit.build/Debug/HEPToolkit.build/Objects-normal/arm64/PRLWordCounterView.bc",
+    "object" : "/Users/ethan/Documents/projects/HEPToolkit/.DerivedData-build/Build/Intermediates.noindex/HEPToolkit.build/Debug/HEPToolkit.build/Objects-normal/arm64/PRLWordCounterView.o",
+    "swift-dependencies" : "/Users/ethan/Documents/projects/HEPToolkit/.DerivedData-build/Build/Intermediates.noindex/HEPToolkit.build/Debug/HEPToolkit.build/Objects-normal/arm64/PRLWordCounterView.swiftdeps",
+    "swiftmodule" : "/Users/ethan/Documents/projects/HEPToolkit/.DerivedData-build/Build/Intermediates.noindex/HEPToolkit.build/Debug/HEPToolkit.build/Objects-normal/arm64/PRLWordCounterView~partial.swiftmodule"
+  },
+  "/Users/ethan/Documents/projects/HEPToolkit/HEPToolkit/View/PlotExtractorView.swift" : {
+    "const-values" : "/Users/ethan/Documents/projects/HEPToolkit/.DerivedData-build/Build/Intermediates.noindex/HEPToolkit.build/Debug/HEPToolkit.build/Objects-normal/arm64/PlotExtractorView.swiftconstvalues",
+    "dependencies" : "/Users/ethan/Documents/projects/HEPToolkit/.DerivedData-build/Build/Intermediates.noindex/HEPToolkit.build/Debug/HEPToolkit.build/Objects-normal/arm64/PlotExtractorView.d",
+    "diagnostics" : "/Users/ethan/Documents/projects/HEPToolkit/.DerivedData-build/Build/Intermediates.noindex/HEPToolkit.build/Debug/HEPToolkit.build/Objects-normal/arm64/PlotExtractorView.dia",
+    "index-unit-output-path" : "/HEPToolkit.build/Debug/HEPToolkit.build/Objects-normal/arm64/PlotExtractorView.o",
+    "llvm-bc" : "/Users/ethan/Documents/projects/HEPToolkit/.DerivedData-build/Build/Intermediates.noindex/HEPToolkit.build/Debug/HEPToolkit.build/Objects-normal/arm64/PlotExtractorView.bc",
+    "object" : "/Users/ethan/Documents/projects/HEPToolkit/.DerivedData-build/Build/Intermediates.noindex/HEPToolkit.build/Debug/HEPToolkit.build/Objects-normal/arm64/PlotExtractorView.o",
+    "swift-dependencies" : "/Users/ethan/Documents/projects/HEPToolkit/.DerivedData-build/Build/Intermediates.noindex/HEPToolkit.build/Debug/HEPToolkit.build/Objects-normal/arm64/PlotExtractorView.swiftdeps",
+    "swiftmodule" : "/Users/ethan/Documents/projects/HEPToolkit/.DerivedData-build/Build/Intermediates.noindex/HEPToolkit.build/Debug/HEPToolkit.build/Objects-normal/arm64/PlotExtractorView~partial.swiftmodule"
+  },
+  "/Users/ethan/Documents/projects/HEPToolkit/HEPToolkit/View/UnitConverterView_2.swift" : {
+    "const-values" : "/Users/ethan/Documents/projects/HEPToolkit/.DerivedData-build/Build/Intermediates.noindex/HEPToolkit.build/Debug/HEPToolkit.build/Objects-normal/arm64/UnitConverterView_2.swiftconstvalues",
+    "dependencies" : "/Users/ethan/Documents/projects/HEPToolkit/.DerivedData-build/Build/Intermediates.noindex/HEPToolkit.build/Debug/HEPToolkit.build/Objects-normal/arm64/UnitConverterView_2.d",
+    "diagnostics" : "/Users/ethan/Documents/projects/HEPToolkit/.DerivedData-build/Build/Intermediates.noindex/HEPToolkit.build/Debug/HEPToolkit.build/Objects-normal/arm64/UnitConverterView_2.dia",
+    "index-unit-output-path" : "/HEPToolkit.build/Debug/HEPToolkit.build/Objects-normal/arm64/UnitConverterView_2.o",
+    "llvm-bc" : "/Users/ethan/Documents/projects/HEPToolkit/.DerivedData-build/Build/Intermediates.noindex/HEPToolkit.build/Debug/HEPToolkit.build/Objects-normal/arm64/UnitConverterView_2.bc",
+    "object" : "/Users/ethan/Documents/projects/HEPToolkit/.DerivedData-build/Build/Intermediates.noindex/HEPToolkit.build/Debug/HEPToolkit.build/Objects-normal/arm64/UnitConverterView_2.o",
+    "swift-dependencies" : "/Users/ethan/Documents/projects/HEPToolkit/.DerivedData-build/Build/Intermediates.noindex/HEPToolkit.build/Debug/HEPToolkit.build/Objects-normal/arm64/UnitConverterView_2.swiftdeps",
+    "swiftmodule" : "/Users/ethan/Documents/projects/HEPToolkit/.DerivedData-build/Build/Intermediates.noindex/HEPToolkit.build/Debug/HEPToolkit.build/Objects-normal/arm64/UnitConverterView_2~partial.swiftmodule"
+  },
+  "/Users/ethan/Documents/projects/HEPToolkit/HEPToolkitApp.swift" : {
+    "const-values" : "/Users/ethan/Documents/projects/HEPToolkit/.DerivedData-build/Build/Intermediates.noindex/HEPToolkit.build/Debug/HEPToolkit.build/Objects-normal/arm64/HEPToolkitApp.swiftconstvalues",
+    "dependencies" : "/Users/ethan/Documents/projects/HEPToolkit/.DerivedData-build/Build/Intermediates.noindex/HEPToolkit.build/Debug/HEPToolkit.build/Objects-normal/arm64/HEPToolkitApp.d",
+    "diagnostics" : "/Users/ethan/Documents/projects/HEPToolkit/.DerivedData-build/Build/Intermediates.noindex/HEPToolkit.build/Debug/HEPToolkit.build/Objects-normal/arm64/HEPToolkitApp.dia",
+    "index-unit-output-path" : "/HEPToolkit.build/Debug/HEPToolkit.build/Objects-normal/arm64/HEPToolkitApp.o",
+    "llvm-bc" : "/Users/ethan/Documents/projects/HEPToolkit/.DerivedData-build/Build/Intermediates.noindex/HEPToolkit.build/Debug/HEPToolkit.build/Objects-normal/arm64/HEPToolkitApp.bc",
+    "object" : "/Users/ethan/Documents/projects/HEPToolkit/.DerivedData-build/Build/Intermediates.noindex/HEPToolkit.build/Debug/HEPToolkit.build/Objects-normal/arm64/HEPToolkitApp.o",
+    "swift-dependencies" : "/Users/ethan/Documents/projects/HEPToolkit/.DerivedData-build/Build/Intermediates.noindex/HEPToolkit.build/Debug/HEPToolkit.build/Objects-normal/arm64/HEPToolkitApp.swiftdeps",
+    "swiftmodule" : "/Users/ethan/Documents/projects/HEPToolkit/.DerivedData-build/Build/Intermediates.noindex/HEPToolkit.build/Debug/HEPToolkit.build/Objects-normal/arm64/HEPToolkitApp~partial.swiftmodule"
+  }
+}

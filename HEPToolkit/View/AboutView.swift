@@ -2,7 +2,7 @@
 //  AboutView.swift
 //  HEPToolkit
 //
-//  Created by 邱渔骋 on 2/3/2026.
+//  Created by Ethan Qiu on 2/3/2026.
 //
 
 import SwiftUI
@@ -25,11 +25,11 @@ struct AboutView: View {
                     .foregroundStyle(.secondary)
                     .multilineTextAlignment(.center)
 
-                Text("Version 0.1 • Built for macOS")
+                Text("Version 0.2.0 • Built for macOS")
                     .font(.subheadline)
                     .foregroundStyle(.secondary)
 
-                Text("PRL word counter • Unit converter • More (coming)")
+                Text("PRL word counter • Unit converter • Plot data extractor • More (coming)")
                     .font(.body)
                     .foregroundStyle(.secondary)
                     .multilineTextAlignment(.center)
@@ -37,7 +37,7 @@ struct AboutView: View {
 
             Spacer()
 
-            Text("Made with Grok and Ethan Qiu")
+            Text("Made with Grok, Codex, and Ethan Qiu")
                 .font(.caption)
                 .foregroundStyle(.tertiary)
             Text("chiu.yyucheng@gmail.com")

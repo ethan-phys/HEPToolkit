@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		AA91A1992F51EE0300424634 /* HEPToolkitApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA91A1972F51EE0300424634 /* HEPToolkitApp.swift */; };
 		AA91A19A2F51EE0300424634 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AA91A1952F51EE0300424634 /* Assets.xcassets */; };
-		AA91A1DE2F55B51C00424634 /* Icon.icon in Resources */ = {isa = PBXBuildFile; fileRef = AA91A1DD2F55B51C00424634 /* Icon.icon */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,7 +34,6 @@
 		AA91A1822F51E9E800424634 /* HEPToolkitUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HEPToolkitUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		AA91A1952F51EE0300424634 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AA91A1972F51EE0300424634 /* HEPToolkitApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HEPToolkitApp.swift; sourceTree = "<group>"; };
-		AA91A1DD2F55B51C00424634 /* Icon.icon */ = {isa = PBXFileReference; lastKnownFileType = folder.iconcomposer.icon; path = Icon.icon; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -84,7 +82,6 @@
 		AA91A1622F51E9E700424634 = {
 			isa = PBXGroup;
 			children = (
-				AA91A1DD2F55B51C00424634 /* Icon.icon */,
 				AA91A16D2F51E9E700424634 /* HEPToolkit */,
 				AA91A1952F51EE0300424634 /* Assets.xcassets */,
 				AA91A1972F51EE0300424634 /* HEPToolkitApp.swift */,
@@ -233,7 +230,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				AA91A19A2F51EE0300424634 /* Assets.xcassets in Resources */,
-				AA91A1DE2F55B51C00424634 /* Icon.icon in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -413,7 +409,7 @@
 		AA91A18D2F51E9E800424634 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = Icon;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = YES;
 				CODE_SIGN_STYLE = Automatic;
@@ -421,7 +417,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				ENABLE_APP_SANDBOX = YES;
 				ENABLE_PREVIEWS = YES;
-				ENABLE_USER_SELECTED_FILES = readonly;
+				ENABLE_USER_SELECTED_FILES = readwrite;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -445,7 +441,7 @@
 		AA91A18E2F51E9E800424634 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = Icon;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = YES;
 				CODE_SIGN_STYLE = Automatic;
@@ -453,7 +449,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				ENABLE_APP_SANDBOX = YES;
 				ENABLE_PREVIEWS = YES;
-				ENABLE_USER_SELECTED_FILES = readonly;
+				ENABLE_USER_SELECTED_FILES = readwrite;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				LD_RUNPATH_SEARCH_PATHS = (

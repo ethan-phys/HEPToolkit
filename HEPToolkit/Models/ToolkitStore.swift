@@ -37,6 +37,10 @@ class ToolkitStore {
     // Plot Extractor (future)
     // @Published var plotImage: NSImage? = nil
     // etc.
+
+    init() {
+        load()
+    }
     
     // Optional: save to disk on change (UserDefaults or file)
     func save() {

@@ -1,0 +1,40 @@
+{
+  "source": "/Users/ethan/Documents/projects/HEPToolkit/HEPToolkit/View/PRLWordCounterView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Loaded: %@",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 120
+        }
+      },
+      {
+        "comment": "",
+        "key": "Load .tex",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 105
+        }
+      },
+      {
+        "comment": "",
+        "key": "Clear",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 110
+        }
+      },
+      {
+        "comment": "",
+        "key": "Count manually",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 137
+        }
+      }
+    ]
+  },
+  "version": 1
+}

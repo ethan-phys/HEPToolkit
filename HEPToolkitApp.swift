@@ -9,16 +9,12 @@ import SwiftUI
 
 @main
 struct HEPToolkitApp: App {
-    @State var store = ToolkitStore()
-    
-    init() {
-        store.load()   // restore on launch
-    }
+    @State private var store = ToolkitStore()
     
     var body: some Scene {
         WindowGroup {
             ContentView()
-                .environment(ToolkitStore())   // or .environment(store) if you have @State var store
+                .environment(store)
         }
         .commands {
             // your existing menu

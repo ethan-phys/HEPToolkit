@@ -1,0 +1,232 @@
+{
+  "source": "/Users/ethan/Documents/projects/HEPToolkit/HEPToolkit/View/UnitConverterView_2.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "SI/Astro → Natural",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 59
+        }
+      },
+      {
+        "comment": "",
+        "key": "Value:",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 65
+        }
+      },
+      {
+        "comment": "",
+        "key": "Value",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 68
+        }
+      },
+      {
+        "comment": "",
+        "key": "Units:",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 80
+        }
+      },
+      {
+        "comment": "",
+        "key": "add units",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 95
+        }
+      },
+      {
+        "comment": "",
+        "key": "×",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 113
+        }
+      },
+      {
+        "comment": "",
+        "key": "Clear",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 132
+        }
+      },
+      {
+        "comment": "",
+        "key": "Add unit",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 128
+        }
+      },
+      {
+        "comment": "",
+        "key": "Convert",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 164
+        }
+      },
+      {
+        "comment": "",
+        "key": "Output in:",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 150
+        }
+      },
+      {
+        "comment": "",
+        "key": "",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 152
+        }
+      },
+      {
+        "comment": "",
+        "key": "Natural → SI/Astro",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 187
+        }
+      },
+      {
+        "comment": "",
+        "key": "Value:",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 192
+        }
+      },
+      {
+        "comment": "",
+        "key": "(",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 203
+        }
+      },
+      {
+        "comment": "",
+        "key": "eV) ^",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 217
+        }
+      },
+      {
+        "comment": "",
+        "key": "",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 196
+        }
+      },
+      {
+        "comment": "",
+        "key": "",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 206
+        }
+      },
+      {
+        "comment": "",
+        "key": "",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 220
+        }
+      },
+      {
+        "comment": "",
+        "key": "Units:",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 237
+        }
+      },
+      {
+        "comment": "",
+        "key": "add units",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 252
+        }
+      },
+      {
+        "comment": "",
+        "key": "×",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 270
+        }
+      },
+      {
+        "comment": "",
+        "key": "Clear",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 287
+        }
+      },
+      {
+        "comment": "",
+        "key": "Convert",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 298
+        }
+      },
+      {
+        "comment": "",
+        "key": "Add unit",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 283
+        }
+      },
+      {
+        "comment": "",
+        "key": ") ^",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 342
+        }
+      },
+      {
+        "comment": "",
+        "key": "(",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 325
+        }
+      },
+      {
+        "comment": "",
+        "key": "",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 334
+        }
+      },
+      {
+        "comment": "",
+        "key": "-",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 344
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -207,4 +207,5 @@ struct PRLWordCounterView: View {
 
 #Preview {
     PRLWordCounterView()
+        .environment(ToolkitStore())
 }

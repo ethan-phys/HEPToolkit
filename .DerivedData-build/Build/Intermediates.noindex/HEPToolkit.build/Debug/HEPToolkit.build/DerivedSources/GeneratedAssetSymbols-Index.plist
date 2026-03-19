@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>colors</key>
+	<array/>
+	<key>images</key>
+	<array>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/ethan/Documents/projects/HEPToolkit/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageName1367F59D4Fab45359E29A647770E8Be5</string>
+			<key>relativePath</key>
+			<string>./HEPtoolkit_icon/Assets/1367f59d-4fab-4535-9e29-a647770e8be5.imageset</string>
+			<key>swiftSymbol</key>
+			<string>_1367F59D4Fab45359E29A647770E8Be5</string>
+		</dict>
+	</array>
+	<key>symbols</key>
+	<array/>
+</dict>
+</plist>

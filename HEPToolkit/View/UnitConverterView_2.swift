@@ -375,16 +375,9 @@ struct UnitConverterView_2: View {
                 return
             }
             
-            // Input prefix: multiplies value
-            if exp >= 0 {
-                let inputPrefixFactor = pow(10.0, Double(f.prefixExp * exp))
-                totalFactor *= inputPrefixFactor * pow(base.factor, Double(exp))
-                totalPower += base.power * exp
-            } else {
-                let inputPrefixFactor = pow(10.0, -Double(f.prefixExp * exp))
-                totalFactor *= inputPrefixFactor * pow(base.factor, Double(exp))
-                totalPower += base.power * exp
-            }
+            let inputPrefixFactor = pow(10.0, Double(f.prefixExp * exp))
+            totalFactor *= inputPrefixFactor * pow(base.factor, Double(exp))
+            totalPower += base.power * exp
         }
 
         var numerical = value * totalFactor
@@ -426,8 +419,8 @@ struct UnitConverterView_2: View {
         case -3: unitBase = "meV"
         case -6: unitBase = "μeV"
         case -9: unitBase = "neV"
-        case -12: unitBase = "feV"
-        case -15: unitBase = "peV"
+        case -12: unitBase = "peV"
+        case -15: unitBase = "feV"
         case -18: unitBase = "aeV"
         default: unitBase = "eV"
         }
@@ -498,5 +491,5 @@ struct UnitConverterView_2: View {
 
 #Preview {
     UnitConverterView_2()
+        .environment(ToolkitStore())
 }
-

@@ -1,0 +1,64 @@
+{
+  "source": "/Users/ethan/Documents/projects/HEPToolkit/HEPToolkit/View/AboutView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "About",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 48
+        }
+      },
+      {
+        "comment": "",
+        "key": "HEP Toolkit",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 19
+        }
+      },
+      {
+        "comment": "",
+        "key": "Made with Grok, Codex, and Ethan Qiu",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 40
+        }
+      },
+      {
+        "comment": "",
+        "key": "chiu.yyucheng@gmail.com",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 43
+        }
+      },
+      {
+        "comment": "",
+        "key": "A small collection of tools for high-energy physicists",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 23
+        }
+      },
+      {
+        "comment": "",
+        "key": "Version 0.2.0 • Built for macOS",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 28
+        }
+      },
+      {
+        "comment": "",
+        "key": "PRL word counter • Unit converter • Plot data extractor • More (coming)",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 32
+        }
+      }
+    ]
+  },
+  "version": 1
+}
